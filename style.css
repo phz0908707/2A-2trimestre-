@@ -20,7 +20,21 @@ h1{
     height: 24px;
     display: inline-block; /*habilita a manipulação de tamanho*/
     background-image: url("../img/Menu.svg");
+<<<<<<< HEAD
+} 
+
+
+} 
+
+.cabecalho{
+ background-color: var();
+ display:flex;
+ justify-content: space-between;
+ align-items:center;
+ 
+=======
 backbround-repeat: no-repeat;
 background-position: center;
+>>>>>>> 8f165de2d840b4acb4ee43f050ba6f1976de175b
 }
 
