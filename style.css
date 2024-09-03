@@ -20,7 +20,7 @@ h1{
     height: 24px;
     display: inline-block; /*habilita a manipulação de tamanho*/
     background-image: url("../img/Menu.svg");
-
-
+backbround-repeat: no-repeat;
+background-position: center;
 }
 
